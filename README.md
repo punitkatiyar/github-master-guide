@@ -1,4 +1,4 @@
-# github-master-guide
+# Github Master Guide
 
 Update Your Skills With Master Training Program for full stack developer
 
@@ -11,7 +11,7 @@ Update Your Skills With Master Training Program for full stack developer
 > email , password , user name
 
 
-> Version Control: GitHub allows developers to track changes in their codebase, manage different versions of files, and collaborate with others on the same project. It provides all the functionalities of Git, including branching, merging, committing changes, and resolving conflicts.
+**Version Control: GitHub allows developers to track changes in their codebase, manage different versions of files, and collaborate with others on the same project. It provides all the functionalities of Git, including branching, merging, committing changes, and resolving conflicts.**
 
 > Code Hosting and Collaboration: Developers can create repositories on GitHub to host their code and collaborate with others. It provides a centralized location for team members to access, contribute, and review code changes. Collaboration features include pull requests, code reviews, issue tracking, and wikis.
 

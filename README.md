@@ -5,7 +5,9 @@ Update Your Skills With Master Training Program for full stack developer
 # Setup GitHub Account
 
 > open github.com
+
 > signup account
+
 > email , password , user name
 
 

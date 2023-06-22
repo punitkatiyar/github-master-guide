@@ -1,5 +1,12 @@
 # github-master-guide
+
 Update Your Skills With Master Training Program for full stack developer
+
+# Setup GitHub Account
+
+> open github.com
+> signup account
+> email , password , user name
 
 
 > Version Control: GitHub allows developers to track changes in their codebase, manage different versions of files, and collaborate with others on the same project. It provides all the functionalities of Git, including branching, merging, committing changes, and resolving conflicts.

@@ -21,5 +21,9 @@
 
 > create a file  : filename.extension
 
-> Directory : same (/) 
+> Directory : same (/)
+
+## How to Acess VS Code 
+
+> https://vscode.dev/github/punitkatiyar/javascript-app/tree/main
 
